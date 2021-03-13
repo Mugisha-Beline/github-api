@@ -41,10 +41,10 @@
               <strong>Location: </strong>{{user.location}}
             </li>
             <li class="list-group-item">
-              <strong>Email: </strong>{{user.email}}
+              <strong>Current company: </strong>{{(user.company) ? user.company : '-' }}
             </li>
             <li class="list-group-item">
-              <strong>Member Since: </strong>{{user.created_at}}
+              <strong>Member since: </strong>{{user.created_at | date}}
             </li>
           </ul>
         </div>
