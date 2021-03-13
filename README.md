@@ -30,6 +30,11 @@ Feel free to explore my other repositories!
 * Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/). For End To End Tests
 
 ---
-Copyright and Licence are under [**MIT**](https://github.com/Mugisha-Beline/github-api/blob/main/LICENSE)
- 
- ©BELINE | 2020
+
+## Licence & Copyright
+
+> MIT License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+© Mugisha Beline - 2021
