@@ -1,14 +1,10 @@
-# GitHub Clone
+# GitHub API
+
+Website link [here](http://picayune-glue.surge.sh/)
 
 ## Description
 A website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories 
 
----
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
-
----
-#### This is a [Link](https://github.com/ramza007/Githubclone/) to my live site on GitHub where a repository of my work is.
 ---
 
 #### Technologies used to make the **GitHubClone App** are;
