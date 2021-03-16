@@ -2,7 +2,7 @@
 ## Done by 
 Mugisha-Beline
 ## Website link
-Website link [here](http://beline-github-api.surge.sh/)
+click [here](http://beline-github-api.surge.sh/) to access the website
 
 ## Description
 A website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for that repositories 
