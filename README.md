@@ -1,5 +1,5 @@
 # GitHub API
-# Done by 
+## Done by 
 Mugisha-Beline
 Website link [here](http://beline-github-api.surge.sh/)
 
