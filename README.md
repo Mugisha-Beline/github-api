@@ -17,7 +17,7 @@ A website where users may enter a GitHub username into a form, submit it, and se
 
 ## To setup and run the project you need to :
 
-* Open GitHub and search my username [beline](https://github.com/Mugisha-Beline)
+* Open GitHub and search my username [Beline](https://github.com/Mugisha-Beline)
 * Then locate the repository *GitHubClone* and open
 * On the Download or Clone tab select the download option and save to a folder that is easily accessible... (Or you could clone the repo to your computer)
 * After this unzip the file and the entire repo will be available on your local machine
