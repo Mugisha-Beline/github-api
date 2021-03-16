@@ -27,7 +27,7 @@ Feel free to explore my other repositories!
 * Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/). For End To End Tests
 
 ## Contributors
-*none
+* None
 
 ## Licence & Copyright
 
