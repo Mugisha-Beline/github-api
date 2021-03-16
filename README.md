@@ -12,7 +12,7 @@ A website where users may enter a GitHub username into a form, submit it, and se
 * Angular
 * TypeScript
 * Bootstrap
-
+* html
 ---
 
 ## To setup and run the project you need to :
