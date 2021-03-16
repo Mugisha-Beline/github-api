@@ -33,4 +33,4 @@ Feel free to explore my other repositories!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-© Mugisha Beline - 2021
+© Mugisha-Beline - 2021
