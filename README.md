@@ -1,6 +1,6 @@
 # GitHub API
 # Done by 
-Mugisha
+Mugisha-Beline
 Website link [here](http://beline-github-api.surge.sh/)
 
 ## Description
